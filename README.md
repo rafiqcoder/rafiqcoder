@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://rafiqcoder.com/](https://rafiqcoder.com/)
 
-- 💬 Ask me about **MERN and Wordpress**
+- 💬 Ask me about **MERN Stack and Wordpress**
 
 - 📫 How to reach me **rafiqulislam.dev@gmail.com**
 

@@ -11,9 +11,6 @@
  I am a passionate MERN Stack developer from Bangladesh. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm a Full Stack Web Developer who is obsessed with creating error-free websites. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high- quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will expand my learning and builds upon my developer skills. I take pride in producing high-quality work and keeping effective communication.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqcoder&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiqcoder" alt="rafiqcoder" /></a> </p>
 
 - 🔭 I’m currently working on [Resale Cycle](https://resalecyclebd.web.app/)
 
@@ -31,15 +28,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fm3_pVaQ1fujRWhc5-lJw1sblIlL8GlM/view?usp=share_link](https://drive.google.com/file/d/1Fm3_pVaQ1fujRWhc5-lJw1sblIlL8GlM/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rafiqcoder" height="30" width="40" /></a>
-<a href="https://twitter.com/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafiqcoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiqcoder" height="30" width="40" /></a>
-<a href="https://fb.com/rafiqprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafiqprofile" height="30" width="40" /></a>
-<a href="https://instagram.com/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiqcoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafiqcoder" height="30" width="40" /></a>
-</p>
+
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
@@ -63,6 +52,21 @@
 ---
 
 <br/> <br/>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqcoder&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqcoder" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiqcoder" alt="rafiqcoder" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rafiqcoder" height="30" width="40" /></a>
+<a href="https://twitter.com/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafiqcoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiqcoder" height="30" width="40" /></a>
+<a href="https://fb.com/rafiqprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafiqprofile" height="30" width="40" /></a>
+<a href="https://instagram.com/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiqcoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rafiqcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafiqcoder" height="30" width="40" /></a>
+</p>
 
 
 

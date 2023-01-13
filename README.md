@@ -4,7 +4,6 @@
 
 <h3 align="center"> MERN Stack Developer</h3>
 <br />
-<br />
 
  I am a passionate MERN Stack developer from Bangladesh. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm a Full Stack Web Developer who is obsessed with creating error-free websites. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high- quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will expand my learning and builds upon my developer skills. I take pride in producing high-quality work and keeping effective communication.
 

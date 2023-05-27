@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [BBQ Tonight](https://bbq.netlify.app)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently making myself Expert on Next js and TypeScript
 
 - 👯 I’m looking for **work as MERN Stack Developer**
 

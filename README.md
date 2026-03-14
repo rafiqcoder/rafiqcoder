@@ -1,29 +1,28 @@
-<img src="[https://i.ibb.co/7zhLCx6/2.png](https://media.licdn.com/dms/image/v2/D5616AQGK60lIk8X5LQ/profile-displaybackgroundimage-shrink_350_1400/B56ZwKg...IwAY-/0/1769702946963?e=1775088000&v=beta&t=7JO_tlwM6J2JAiaIu0UmOkxs1WPcmZD7RDz9qKUhSUI)" alt="" /> </a><p align="center" > 
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGK60lIk8X5LQ/profile-displaybackgroundimage-shrink_350_1400/B56ZwKg...IwAY-/0/1769702946963?e=1775088000&v=beta&t=7JO_tlwM6J2JAiaIu0UmOkxs1WPcmZD7RDz9qKUhSUI" alt="" /> </a><p align="center" > 
 
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm Md Rafiqul Islam </h1>
 
-<h3 align="center"> MERN Stack Developer</h3>
+<h3 align="center"> Senior Software Developer</h3>
 <br />
 
- I am a passionate MERN Stack developer from Bangladesh. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm a Full Stack Web Developer who is obsessed with creating error-free websites. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high- quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will expand my learning and builds upon my developer skills. I take pride in producing high-quality work and keeping effective communication.
+ I am a passionate  Software developer from Bangladesh. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm a Full Stack Web Developer who is obsessed with creating error-free websites. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high- quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will expand my learning and builds upon my developer skills. I take pride in producing high-quality work and keeping effective communication.
 
 
 
-- 🔭 I’m currently working on [BBQ Tonight](https://bbq.netlify.app)
+- 🔭 I’m currently working on [UIUXHero](uiuxhero.com)
 
 - 🌱 I’m currently making myself Expert on Next js and TypeScript
 
 - 👯 I’m looking for **work as MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://rafiqcoder.com/](https://rafiqcoder.com/)
+- 👨‍💻 All of my projects are available at [https://uiuxhero.com/](https://uiuxhero.com/)
 
-- 📝 I regularly write articles on [https://rafiqcoder.com/](https://rafiqcoder.com/)
+- 📝 I regularly write articles on [https://uiuxhero.com/](https://uiuxhero.com/)
 
 - 💬 Ask me about **MERN Stack and Wordpress**
 
 - 📫 How to reach me **rafiqulislam.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fm3_pVaQ1fujRWhc5-lJw1sblIlL8GlM/view?usp=share_link](https://drive.google.com/file/d/1Fm3_pVaQ1fujRWhc5-lJw1sblIlL8GlM/view?usp=share_link)
 
 
 #### :muscle: Things I am challenging myself with:
